@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# 編輯器
+.vscode/
+.idea/
+*.swp
+
+# 治理檔備份（硬規則 3 產生的 .bak 檔）
+*.bak-*
+
+# Claude Code 本機設定
+.claude/settings.local.json
+
+# 暫存
+*.log
+tmp/
